@@ -8,7 +8,7 @@ toc_label: "Tabla de contenidos"
 toc_icon: "bolt"
 ---
 
-> ¿Quiéres un Huawei Watch GT5? Ven el miércoles 7 de noviembre (12h) a conocer HarmonyOS.Next y cómo programar apps nativas para tu Huawei GT5 (sí, te regalamos uno 🙂)
+> ¿Quiéres un [Huawei Watch GT5](https://consumer.huawei.com/es/wearables/watch-gt5/specs/)? Ven el miércoles 7 de noviembre (12h) a conocer HarmonyOS.Next y cómo programar apps nativas para tu GT5 (sí, te regalamos uno 🙂)
 
 ## ¿Dónde y Cuándo?
 
