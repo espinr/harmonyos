@@ -12,7 +12,7 @@ toc_icon: "bolt"
 
 ## ¿Dónde y Cuándo?
 
-El miércoles 7 de noviembre de 2024 a las 12.00h en la ETSINF, UPV.
+El miércoles __7 de noviembre__ de 2024 a las __12.00h__ en la [Escola Tècnica Superior d’Enginyeria Informàtica (ETSINF) de la UPV](https://www.upv.es/entidades/etsinf/).
 
 ## ¿Para Quién?
 

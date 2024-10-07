@@ -19,7 +19,7 @@ locale                   : "es"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Jornada en la ETSINF (UPV)"
 title_separator          : "-"
-subtitle                 : "Descubre HarmonyOS" 
+subtitle                 : "7 de noviembre a las 12h" 
 name                     : "Jornadas HarmonyOS.Next"
 description              : "Descubre el nuevo sistema operativo y su entorno de programación"
 url                      : #"https://openathletics.net"
