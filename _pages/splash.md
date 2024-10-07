@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/splash.jpg
   #caption: "CCBY Martin Alvarez"
   actions:
-    - label: "Toda la info"
+    - label: "Más info..."
       url: "/upv"
 excerpt: "¿Quiéres un Huawei Watch GT5? El miércoles 7 de noviembre (12h) podrás conocer HarmonyOS.Next y cómo programar apps nativas para tu GT5 (sí, te regalamos uno 🙂)"
 intro: 
