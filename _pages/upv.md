@@ -10,11 +10,11 @@ toc_icon: "bolt"
 
 > ¿Quiéres un [Huawei Watch GT5](https://consumer.huawei.com/es/wearables/watch-gt5/specs/)? Ven el miércoles 7 de noviembre (12h) a conocer HarmonyOS.Next y cómo programar apps nativas para tu GT5 (sí, te regalamos uno 🙂)
 
-## ¿Dónde y Cuándo?
+## ¿Dónde y cuándo?
 
 El miércoles __7 de noviembre__ de 2024 a las __12.00h__ en la [Escola Tècnica Superior d’Enginyeria Informàtica (ETSINF) de la UPV](https://www.upv.es/entidades/etsinf/).
 
-## ¿Para Quién?
+## ¿Para quién?
 
 Cualquiera es bienvenido/a. Desarrolladores/as, perfiles técnicos con interés en conocer HarmonyOS.Next, su arquitectura y las nuevas herramientas y framework de desarrollo. 
 
@@ -38,6 +38,6 @@ En esta charla se introducirá HarmonyOS a través de la visión estratégica de
 | 12:20-13:00 | HarmonyOS: arquitectura y nuevo paradigma de programación | Martin Alvarez (Head of Web Standards, Huawei European Research Institute)|
 | 13:00-14:00 | Reto de rápido prototipado | Todos los asistentes |
 
-## Sobre el Reto
+## Sobre el reto
 
 Daremos más info los días antes del evento :)
