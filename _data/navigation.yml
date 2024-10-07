@@ -1,0 +1,10 @@
+# main links
+main:
+#  - title: "Forum"
+#    url: "https://forum.openathletics.net/"
+#  - title: "Reports"
+#    url: "/reports/"
+#  - title: "Meetings"
+#    url: "/meetings/"
+  - title: "Sobre el evento"
+    url: "/upv/"
