@@ -8,11 +8,13 @@ toc_label: "Tabla de contenidos"
 toc_icon: "bolt"
 ---
 
-> ¿Quiéres un [Huawei Watch GT5](https://consumer.huawei.com/es/wearables/watch-gt5/specs/)? Ven el miércoles 7 de noviembre (12h) a conocer HarmonyOS.Next y cómo programar apps nativas para tu GT5 (sí, te regalamos uno 🙂)
+<!--redirect from https://bit.ly/upv-harmonyos-->
+
+> ¿Quieres probar HarmonyOS en tu [Huawei Watch GT5](https://consumer.huawei.com/es/wearables/watch-gt5/specs/)? Ven el jueves 7 de noviembre (12.30h) a conocer HarmonyOS.Next y cómo programar apps nativas para tu GT5 (sí, te puedes llevar uno 🙂)
 
 ## ¿Dónde y cuándo?
 
-El miércoles __7 de noviembre__ de 2024 a las __12.00h__ en la [Escola Tècnica Superior d’Enginyeria Informàtica (ETSINF) de la UPV](https://www.upv.es/entidades/etsinf/).
+El jueves __7 de noviembre__ de 2024 a partir de las __12.30h__ en la [Escola Tècnica Superior d’Enginyeria Informàtica (ETSINF) de la UPV](https://www.upv.es/entidades/etsinf/).
 
 ## ¿Para quién?
 
@@ -34,9 +36,13 @@ En esta charla se introducirá HarmonyOS a través de la visión estratégica de
 
 | Hora | Sesión | Ponente |
 |------|--------|---------|
-| 12:00-12:20 | De open source al mercado | Juan Rico (Senior Manager for Oniro and Cloud Programs, Eclipse Foundation) |
-| 12:20-13:00 | HarmonyOS: arquitectura y nuevo paradigma de programación | Martin Alvarez (Head of Web Standards, Huawei European Research Institute)|
-| 13:00-14:00 | Reto de rápido prototipado | Todos los asistentes |
+| 12:30-12:45 | De open source al mercado | Juan Rico (Senior Manager for Oniro and Cloud Programs, Eclipse Foundation) |
+| 12:45-13:30 | HarmonyOS: arquitectura y nuevo paradigma de programación | Martin Alvarez (Head of Web Standards, Huawei European Research Institute)|
+| 13:30-14:00 | Reto de prototipado rápido: introducción y criterios de evaluación | - |
+| 14:00-14:30 | Pausa | - |
+| 14:30-15:45 | Reto de rápido prototipado | - |
+| 15:45-16:00 | Entrega de wearables Huawei | - |
+
 
 ## Sobre el reto
 
