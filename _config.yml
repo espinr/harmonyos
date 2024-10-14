@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Jornada en la ETSINF (UPV)"
 title_separator          : "-"
 subtitle                 : "7 de noviembre, 12.30h" 
-name                     : "Jornadas HarmonyOS.Next"
+name                     : "Jornada HarmonyOS.Next"
 description              : "Descubre el nuevo sistema operativo y su entorno de programación"
 url                      : #"https://openathletics.net"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Open Athletics Community Group"
+  name             : "espinr"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Community Group in W3C for standardisation of Athletics exchange of data"
-  location         : "Worldwide"
+  bio              : ""
+  location         : "Leuven, BE"
   email            :
   links:
     - label: "Email"
