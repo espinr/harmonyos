@@ -10,7 +10,7 @@ toc_icon: "bolt"
 
 <!--redirect from https://bit.ly/upv-harmonyos-->
 
-> Ven a conocer HarmonyOS y cómo desarrollar apps para tu [Huawei Watch GT5](https://consumer.huawei.com/es/wearables/watch-gt5/specs/)? Ven el jueves 7 de noviembre (12.30h) a conocer HarmonyOS.Next y cómo programar apps nativas para tu GT5 (sí, te puedes llevar uno 🙂).
+> Ven a conocer HarmonyOS y cómo desarrollar apps para tu [Huawei Watch GT5](https://consumer.huawei.com/es/wearables/watch-gt5/specs/)? El jueves 7 de noviembre (12.30h) podrás explorar HarmonyOS y probarlo con un GT5 (sí, te puedes llevar uno 🙂).
 
 ## ¿Dónde y cuándo?
 
