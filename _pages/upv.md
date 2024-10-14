@@ -45,10 +45,13 @@ En esta charla se introducirá HarmonyOS a través de la visión estratégica de
 
 ## Sobre el reto
 
-Daremos más info el día del evento. Mientras tanto, te podemos anticipar que los participantes se llevarán un wearable. Repartiremos __Huawei Watch GT5__ y __Huawei Freebuds__).
+El reto estará centrado en nuevas aplicaciones para salud y deporte que puedan enriquecer el ecosistema de wearables de HarmonyOS/OpenHarmony. No será necesario codificar una aplicación completa sino desarrollar un concepto, en base a los criterios que se presentarán en la jornada (APIs, escenarios, etc).   
 
-Se permitirá la participación en grupos de dos personas. 
+Se podrán hacer equipos de uno o dos personas. Te recomendamos lleves un portátil por equipo para poder desarrollar y presentar la idea.
 
+Mientras tanto, te podemos anticipar que los participantes se llevarán un wearable. Repartiremos __Huawei Watch GT5__ y __Huawei Freebuds__).
+
+Daremos más información durante el evento evento. 
 
 Para más información contacta con martin.alvarez.espinar@huawei.com.
 
