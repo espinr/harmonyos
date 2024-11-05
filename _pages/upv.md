@@ -10,17 +10,24 @@ toc_icon: "bolt"
 
 <!--redirect from https://bit.ly/upv-harmonyos-->
 
+### Información importante de última hora: 
+
+La jornada se ha aplazado por fuerza mayor, ya que la [UPV ha suspendido las actividades académicas del 4 al 10 de Noviembre](https://x.com/UPV/status/1852394278317703662).__
+
+
 > Ven a conocer HarmonyOS y cómo desarrollar apps para tu [Huawei Watch GT5](https://consumer.huawei.com/es/wearables/watch-gt5/specs/)? El jueves 7 de noviembre (12.30h) podrás explorar HarmonyOS y probarlo con un GT5 (sí, te puedes llevar uno 🙂).
 
 ## ¿Dónde y cuándo?
 
-El jueves __7 de noviembre__ de 2024 a partir de las __12.30h__ en la [Escola Tècnica Superior d’Enginyeria Informàtica (ETSINF) de la UPV](https://www.upv.es/entidades/etsinf/).
+En breve se notificará las nuevas fechas.
+
+<!-- El jueves __7 de noviembre__ de 2024 a partir de las __12.30h__ en la [Escola Tècnica Superior d’Enginyeria Informàtica (ETSINF) de la UPV](https://www.upv.es/entidades/etsinf/). -->
 
 ## ¿Para quién?
 
 Cualquiera es bienvenido/a. Desarrolladores/as, y cualquire perfil técnico con interés en conocer HarmonyOS.Next, su arquitectura y las nuevas herramientas y framework de desarrollo. 
 
-No es necesario tener conocimientos previos, aunque se recomienda estar familiarizado/a con los lenguages de programación web (HTML, CSS, APIs JS).
+No es necesario tener conocimientos previos, aunque se recomienda estar familiarizado/a con los lenguajes de programación web (HTML, CSS, APIs JS).
 
 Para participar en el ejercicio práctico te recomendamos llevar tu portátil. No será necesario codificar una aplicación completa, únicamente desarrollar una idea conceptual sobre una plantilla que se distribuirá el día del evento. También puedes hacer equipo con alguien y participar en grupo de dos personas. 
 
@@ -39,7 +46,7 @@ Para participar en el ejercicio práctico te recomendamos llevar tu portátil. N
 
 __OpenHarmony/HarmonyOS__ es un sistema operativo desarrollado por Huawei para una gran variedad de dispositivos inteligentes, desde portátiles o smartphones hasta cualquier dispositivo wearable o IoT. Este sistema operativo, desarrollado por Huawei y disponible en su versión de código abierto (OpenHarmony) ha estado en constante evolución desde la primera versión pública en 2019, manteniendo compatibilidad con el entorno Android. 
 
-HarmonyOS, con su versión 5 (o HarmonyOS.Next), se ha convertido en un entorno totalmente nativo independiente y abierto para cualquier tipo y marca de dispositivo. Las aplicaciones para HarmonyOS Next son programadas a través de del entorno ArkUI y mediante el lenguaje de programación ArkTS, basado en TypeScript. El ecosistema de HarmonyOS.Next cuenta ya con más de 10.000 aplicaciones nativas, principalmente para el mercado asiático, algo que pasa desapercibido en Europa.
+HarmonyOS, con su versión 5 (o HarmonyOS.Next), se ha convertido en un entorno totalmente nativo independiente y abierto para cualquier tipo y marca de dispositivo. Las aplicaciones para HarmonyOS Next son programadas a través del entorno ArkUI y mediante el lenguaje de programación ArkTS, basado en TypeScript. El ecosistema de HarmonyOS.Next cuenta ya con más de 10.000 aplicaciones nativas, principalmente para el mercado asiático, algo que pasa desapercibido en Europa.
 
 En esta charla se introducirá HarmonyOS a través de la visión estratégica de su desarrollo como un sistema colaborativo e inclusivo de código abierto. Además, los asistentes experimentarán, desde una perspectiva práctica, la programación de aplicaciones nativas a través del entorno ArkUI. La charla se complementará con un ejercicio práctico aplicado a la programación de smartwatches con HarmonyOS. Los asistentes a la charla podrán colaborar con sus ideas innovadoras y así recibir uno de los _wearables_ que repartiremos para que puedas experimentar en primicia.
 
@@ -51,7 +58,7 @@ Se podrán hacer equipos de uno o dos personas. Te recomendamos lleves un portá
 
 Mientras tanto, te podemos anticipar que los participantes se llevarán un wearable. Repartiremos __Huawei Watch GT5__ y __Huawei Freebuds__).
 
-Daremos más información durante el evento evento. 
+Daremos más información durante el evento. 
 
 Para más información contacta con martin.alvarez.espinar@huawei.com.
 
