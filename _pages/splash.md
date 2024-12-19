@@ -10,10 +10,9 @@ header:
   actions:
     - label: "Más info..."
       url: "/upv"
-excerpt: "IMPORTANTE: hemos aplazado el evento por fuerza mayor. En breve notificaremos la nueva fecha. Descubre HarmonyOS y cómo programar apps para tu Huawei Watch GT5. Ven y podrás conocer el nuevo sistema operativo y cómo programar apps para tu _wearable_ (sí, vamos a regalar dispositivos 🙂)"
+excerpt: "Descubre HarmonyOS y cómo programar apps para tu Huawei Watch GT5 (sí, vamos a regalar dispositivos 🙂). Ven y podrás conocer el nuevo sistema operativo y cómo programar apps para tu _wearable_"
 intro:
-  - excerpt: 'Próximamente te notificaremos cuándo celebraremos esta jornada en la ETSINF de la UPV, donde podrás conocer las novedades del nuevo sistema operativo independiente, y participar en un reto de prototipado rápido... Las mejores ideas se llevarán uno de los _wearables_ para poder probarlo con tus propias apps.' 
-#  - excerpt: 'El jueves 7 de noviembre a las 12.30h te esperamos en la ETSINF de la UPV, donde podrás conocer las novedades del nuevo sistema operativo independiente, y participar en un reto de prototipado rápido... Las mejores ideas se llevarán uno de los _wearables_ para poder probarlo con tus propias apps.'
+  - excerpt: 'El jueves 27 de febrero te invitamos a nuestra jornada de la ETSINF en la UPV, donde podrás conocer las novedades del nuevo sistema operativo independiente, y participar en un reto de prototipado rápido... Las mejores ideas se llevarán uno de los _wearables_ para poder probarlo con tus propias apps. Plazas limitadas, así que debes registrarte.' 
 feature_row_left:
   - image_path: /assets/images/gt5.png
     title: "Tus apps en un Huawei Watch GT5"

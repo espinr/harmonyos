@@ -12,16 +12,11 @@ toc_icon: "bolt"
 
 ### Información importante de última hora: 
 
-La jornada se ha aplazado por fuerza mayor, ya que la [UPV ha suspendido las actividades académicas del 4 al 10 de Noviembre](https://x.com/UPV/status/1852394278317703662).__
-
-
-> Ven a conocer HarmonyOS y cómo desarrollar apps para tu [Huawei Watch GT5](https://consumer.huawei.com/es/wearables/watch-gt5/specs/)? El jueves 7 de noviembre (12.30h) podrás explorar HarmonyOS y probarlo con un GT5 (sí, te puedes llevar uno 🙂).
+> Ven a conocer HarmonyOS y cómo desarrollar apps para tu [Huawei Watch GT5](https://consumer.huawei.com/es/wearables/watch-gt5/specs/)? El jueves 27 de febrero (12.30h) podrás explorar HarmonyOS y probarlo con un GT5 o con otros wearables que regalaremos (sí, te llevarás uno 🙂).
 
 ## ¿Dónde y cuándo?
 
-En breve se notificará las nuevas fechas.
-
-<!-- El jueves __7 de noviembre__ de 2024 a partir de las __12.30h__ en la [Escola Tècnica Superior d’Enginyeria Informàtica (ETSINF) de la UPV](https://www.upv.es/entidades/etsinf/). -->
+El jueves __27 de febrero__ de 2024 a partir de las __12.30h__ en la [Escola Tècnica Superior d’Enginyeria Informàtica (ETSINF) de la UPV](https://www.upv.es/entidades/etsinf/).
 
 ## ¿Para quién?
 
@@ -56,9 +51,9 @@ El reto estará centrado en nuevas aplicaciones para salud y deporte que puedan 
 
 Se podrán hacer equipos de uno o dos personas. Te recomendamos lleves un portátil por equipo para poder desarrollar y presentar la idea.
 
-Mientras tanto, te podemos anticipar que los participantes se llevarán un wearable. Repartiremos __Huawei Watch GT5__ y __Huawei Freebuds__).
+Mientras tanto, te podemos anticipar que los participantes se llevarán un wearable. Repartiremos __Huawei Watch GT5__ y __Huawei Freebuds__.
 
-Daremos más información durante el evento. 
+Daremos más información concreta durante el evento. 
 
-Para más información contacta con martin.alvarez.espinar@huawei.com.
+Para más información mientras tanto, contacta con martin.alvarez.espinar @huawei.com.
 
