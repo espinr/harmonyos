@@ -10,13 +10,11 @@ toc_icon: "bolt"
 
 <!--redirect from https://bit.ly/upv-harmonyos-->
 
-### Información importante de última hora: 
-
 > Ven a conocer HarmonyOS y cómo desarrollar apps para tu [Huawei Watch GT5](https://consumer.huawei.com/es/wearables/watch-gt5/specs/)? El jueves 27 de febrero (12.30h) podrás explorar HarmonyOS y probarlo con un GT5 o con otros wearables que regalaremos (sí, te llevarás uno 🙂).
 
 ## ¿Dónde y cuándo?
 
-El jueves __27 de febrero__ de 2024 a partir de las __12.30h__ en la [Escola Tècnica Superior d’Enginyeria Informàtica (ETSINF) de la UPV](https://www.upv.es/entidades/etsinf/).
+El jueves __27 de febrero__ de 2024 a partir de las __12.30h__ en la [Escola Tècnica Superior d’Enginyeria Informàtica (ETSINF) de la UPV](https://www.upv.es/entidades/etsinf/). Recuerda que las plazas son limitadas y __debes registrarte__ para asistir. 
 
 ## ¿Para quién?
 
@@ -26,7 +24,7 @@ No es necesario tener conocimientos previos, aunque se recomienda estar familiar
 
 Para participar en el ejercicio práctico te recomendamos llevar tu portátil. No será necesario codificar una aplicación completa, únicamente desarrollar una idea conceptual sobre una plantilla que se distribuirá el día del evento. También puedes hacer equipo con alguien y participar en grupo de dos personas. 
 
-## Programa
+## Programa 
 
 | Hora | Sesión | Ponente |
 |------|--------|---------|
@@ -55,5 +53,5 @@ Mientras tanto, te podemos anticipar que los participantes se llevarán un weara
 
 Daremos más información concreta durante el evento. 
 
-Para más información mientras tanto, contacta con martin.alvarez.espinar @huawei.com.
+Para más información, mientras tanto, contacta con martin.alvarez.espinar @huawei.com.
 
