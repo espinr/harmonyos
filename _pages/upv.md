@@ -26,14 +26,14 @@ Para participar en el ejercicio práctico te recomendamos llevar tu portátil. N
 
 ## Programa 
 
-| Hora | Sesión | Ponente |
-|------|--------|---------|
-| 12:30-12:45 | De open source al mercado | Juan Rico (Senior Manager for Oniro and Cloud Programs, Eclipse Foundation) |
-| 12:45-13:30 | HarmonyOS: arquitectura y nuevo paradigma de programación | Martin Alvarez (Head of Web Standards, Huawei European Research Institute)|
-| 13:30-14:00 | Reto de prototipado rápido: introducción y criterios de evaluación | - |
-| 14:00-14:30 | Pausa | - |
-| 14:30-15:45 | Reto de rápido prototipado | - |
-| 15:45-16:00 | Entrega de premios (wearables Huawei) | - |
+| Hora | Sesión |
+|------|--------|
+| 12:30-12:45 | HarmonyOS/OpenHarmony/Oniro |
+| 12:45-13:30 | HarmonyOS: arquitectura y nuevo paradigma de programación |
+| 13:30-14:00 | Reto de prototipado rápido: introducción y criterios de evaluación | 
+| 14:00-14:30 | Comida | 
+| 14:30-15:45 | Reto de rápido prototipado |
+| 15:45-16:00 | Entrega de premios (wearables Huawei) |
 
 ## Sobre la charla 
 
@@ -47,11 +47,9 @@ En esta charla se introducirá HarmonyOS a través de la visión estratégica de
 
 El reto estará centrado en nuevas aplicaciones para salud y deporte que puedan enriquecer el ecosistema de wearables de HarmonyOS/OpenHarmony. No será necesario codificar una aplicación completa sino desarrollar un concepto, en base a los criterios que se presentarán en la jornada (APIs, escenarios, etc).   
 
-Se podrán hacer equipos de uno o dos personas. Te recomendamos lleves un portátil por equipo para poder desarrollar y presentar la idea.
+Se podrán hacer equipos de hasta cinco personas (o individual). Te recomendamos lleves un portátil por equipo para poder desarrollar y presentar la idea.
 
 Mientras tanto, te podemos anticipar que los participantes se llevarán un wearable. Repartiremos __Huawei Watch GT5__ y __Huawei Freebuds__.
-
-Daremos más información concreta durante el evento. 
 
 Para más información, mientras tanto, contacta con martin.alvarez.espinar @huawei.com.
 
