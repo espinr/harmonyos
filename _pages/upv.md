@@ -51,5 +51,12 @@ Se podrán hacer equipos de hasta cinco personas (o individual). Te recomendamos
 
 Mientras tanto, te podemos anticipar que los participantes se llevarán un wearable. Repartiremos __Huawei Watch GT5__ y __Huawei Freebuds__.
 
-Para más información, mientras tanto, contacta con martin.alvarez.espinar @huawei.com.
+
+### Material para el evento
+
+- [Plantilla PPTX](https://espinr.github.io/harmonyos/assets/prez/plantilla-evaluacion-[numero-de-tu-equipo].pptx) o en [formato ODP](https://espinr.github.io/harmonyos/assets/prez/plantilla-evaluacion-[numero-de-tu-equipo].odp)
+- [Formulario](https://bit.ly/oh-upv)
+
+
+Para más información contacta con martin.alvarez.espinar @huawei.com.
 
