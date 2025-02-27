@@ -47,7 +47,7 @@ En esta charla se introducirá HarmonyOS a través de la visión estratégica de
 
 El reto estará centrado en nuevas aplicaciones para salud y deporte que puedan enriquecer el ecosistema de wearables de HarmonyOS/OpenHarmony. No será necesario codificar una aplicación completa sino desarrollar un concepto, en base a los criterios que se presentarán en la jornada (APIs, escenarios, etc).   
 
-Se podrán hacer equipos de hasta cinco personas (o individual). Te recomendamos lleves un portátil por equipo para poder desarrollar y presentar la idea.
+Se podrán hacer equipos de uno a tres componentes. Te recomendamos lleves un portátil por equipo para poder desarrollar y presentar la idea.
 
 Mientras tanto, te podemos anticipar que los participantes se llevarán un wearable. Repartiremos __Huawei Watch GT5__ y __Huawei Freebuds__.
 
